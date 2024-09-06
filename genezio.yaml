@@ -4,6 +4,7 @@ frontend:
     scripts:
         build: npm start
         deploy: npm install
-name: izumi-v3
+    subdomain: ixumi
+name: ixumi
 region: us-east-1
 yamlVersion: 2
