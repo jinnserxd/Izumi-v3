@@ -4,7 +4,7 @@ frontend:
     scripts:
         build: npm start
         deploy: npm install
-    subdomain: ixumi
-name: ixumi
+    subdomain: jinnserxd
+name: jinnserxd
 region: us-east-1
 yamlVersion: 2
